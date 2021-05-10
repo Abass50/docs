@@ -12,6 +12,6 @@ versions:
   github-ae: '*'
 topics:
   - Identity
-  - Access management
+  - Access management 
 ---
 
